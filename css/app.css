@@ -1,2 +1,8 @@
-.contact { line-height: 4.2; }
-.tweettweet { margin-top: 2em; }
+.contact { 
+  line-height: 4.2;
+}
+.header { 
+  border-bottom: 1px solid #bdada1;
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
